@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Pagina di Logout</title>
 <style>
 	.immag1{margin-left:70px;
 display: flex;}
